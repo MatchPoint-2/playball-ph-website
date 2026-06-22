@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 132" role="img" aria-labelledby="title desc">
+  <title id="title">Playball PH</title>
+  <desc id="desc">Playball PH sports wordmark logo</desc>
+  <rect width="520" height="132" rx="8" fill="#0a0a0a"/>
+  <path d="M30 16h82c28 0 47 17 47 42 0 26-19 43-47 43H72v15H30V16Zm76 51c8 0 13-4 13-10s-5-10-13-10H72v20h34Z" fill="#e30613"/>
+  <path d="M171 16h42v65h67v35H171V16Zm119 0h43l47 100h-46l-6-16h-36l-6 16h-44l48-100Zm27 57-7-21-8 21h15Zm69-57h44l25 39 25-39h44l-48 73v27h-42V90L386 16Z" fill="#ffffff"/>
+  <path d="M30 116h494" stroke="#e30613" stroke-width="8"/>
+  <text x="333" y="105" fill="#e30613" font-family="Arial Black, Impact, sans-serif" font-size="36" letter-spacing="0">PH</text>
+  <path d="M462 74c0-17 13-30 30-30s30 13 30 30-13 30-30 30-30-13-30-30Z" fill="#ffffff"/>
+  <path d="M481 54c15 12 18 27 2 40m19-40c-15 12-18 27-2 40" stroke="#e30613" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>
